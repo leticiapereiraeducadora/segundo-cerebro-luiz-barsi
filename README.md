@@ -88,12 +88,17 @@ Evitar especulação
 Dividendos são parte do lucro distribuída pelas empresas aos acionistas. Na estratégia de Luiz Barsi, eles são fundamentais para gerar renda passiva e aumentar o patrimônio ao longo do tempo.
 
 📖 Glossário
-Termo               Definição
-Dividendos  	      Parte do lucro distribuída aos acionistas
-Ações	              Pequenas partes de uma empresa
-Longo Prazo	        Investimento mantido por vários anos
-Renda Passiva	      Dinheiro recebido regularmente
-Reinvestimento 	    Aplicar novamente os lucros recebidos
+Termo-------------Definição
+
+Dividendos-------------Parte do lucro distribuída aos acionistas
+
+Ações-------------	Pequenas partes de uma empresa
+
+Longo Prazo------------- Investimento mantido por vários anos
+
+Renda Passiva------------- Dinheiro recebido regularmente
+
+Reinvestimento-------------Aplicar novamente os lucros recebidos
 
 🔁 Prompts Reutilizáveis
 
