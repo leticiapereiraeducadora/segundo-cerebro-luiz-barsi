@@ -101,6 +101,7 @@ Renda Passiva------------- Dinheiro recebido regularmente
 
 Reinvestimento-------------Aplicar novamente os lucros recebidos
 
+
 🔁 Prompts Reutilizáveis
 
 Explique os princípios de investimento de Luiz Barsi
