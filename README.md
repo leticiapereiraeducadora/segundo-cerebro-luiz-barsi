@@ -18,8 +18,9 @@ O conceito de segundo cérebro refere-se à criação de um sistema organizado d
 
 📚 Curadoria de Fontes
 As seguintes fontes foram utilizadas no NotebookLM:
-.
+
 🎥 Fontes de Vídeo 
+
 https://youtu.be/OQYtVF5Gslo?si=D31L2WpX8Vpa3CBf
 https://youtu.be/at-bQ612x7w?si=61dVdlkwnFHHkUti
 https://youtu.be/ektoKZR4A9c?si=aVuZO3NuoOQw6wRQ
@@ -27,12 +28,14 @@ https://youtu.be/ozpG1WqTlYA?si=fLvULK5grVbn2r2q
 https://www.youtube.com/watch?v=3ffMyLHiC3o
 
 📄 Fontes de Texto
+
 https://www.cnnbrasil.com.br/economia/mercado/luiz-barsi-ao-cnn-money-as-licoes-de-investimento-do-rei-dos-dividendos/
 https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/luiz-barsi-saiba-como-o-warren-buffett-brasileiro-fez-fortuna-focando-em-dividendos/
 https://fastcompanybrasil.com/money/quem-e-luiz-barsi-o-maior-investidor-individual-da-b3/
 https://www.suno.com.br/tudo-sobre/luiz-barsi/
 
 🤖 Engenharia de Prompts e Cicatrizes
+
 Durante o estudo, foram utilizados prompts estratégicos para extrair informações relevantes do NotebookLM. 
 Também foram registradas dificuldades e melhorias realizadas nos prompts.
 
