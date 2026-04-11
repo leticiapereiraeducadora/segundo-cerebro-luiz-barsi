@@ -1,14 +1,18 @@
-# segundo-cerebro-luiz-barsi
-📌 Contexto
+# 🧠 Segundo- Cérebro — Luiz Barsi
+
+Sistema de estudo baseado nos ensinamentos do investidor Luiz Barsi Filho, utilizando Inteligência Artificial e o NotebookLM como ferramenta de aprendizagem ativa.
+## 📊 Baseado nos ensinamentos de Luiz Barsi
+
+## 📌 Contexto
 Este projeto foi desenvolvido com o objetivo de criar um segundo cérebro digital baseado nos ensinamentos do investidor brasileiro Luiz Barsi Filho, reconhecido por sua estratégia de investimento em dividendos e visão de longo prazo. O estudo foi realizado utilizando o NotebookLM como ferramenta de aprendizagem ativa, reunindo fontes confiáveis sobre educação financeira e princípios de investimento.
 
-🎯 Objetivo Geral
+## 🎯 Objetivo Geral
 Criar um segundo cérebro digital baseado nos ensinamentos e na metodologia de investimento de Luiz Barsi, reunindo conceitos, estratégias e princípios fundamentais que auxiliem na tomada de decisões financeiras e no aprendizado contínuo sobre investimentos.
 
-📌 O que é "Segundo Cérebro"? 
+## 📌 O que é "Segundo Cérebro"? 
 O conceito de segundo cérebro refere-se à criação de um sistema organizado de conhecimento que permite armazenar, revisar e aplicar informações importantes ao longo do tempo. Neste projeto, o segundo cérebro será construído com base nos ensinamentos de Luiz Barsi, organizando sua história, princípios e estratégias de investimento em um caderno temático estruturado.
 
-🎯 Objetivos Específicos
+## 🎯 Objetivos Específicos
 - Compreender a história de Luiz Barsi como investidor
 - Identificar seus principais princípios de investimento
 - Organizar o conhecimento em um sistema estruturado (segundo cérebro)
@@ -16,32 +20,26 @@ O conceito de segundo cérebro refere-se à criação de um sistema organizado d
 - Desenvolver prompts reutilizáveis para revisão contínua
 - Construir um material que facilite decisões financeiras futuras
 
-📚 Curadoria de Fontes
-As seguintes fontes foram utilizadas no NotebookLM:
+## 📚 Curadoria de Fontes
 
-🎥 Fontes de Vídeo 
+As seguintes fontes foram utilizadas como base para construção do caderno temático:
 
-https://youtu.be/OQYtVF5Gslo?si=D31L2WpX8Vpa3CBf
+### 🎥 Fontes de Vídeo
 
-https://youtu.be/at-bQ612x7w?si=61dVdlkwnFHHkUti
+- https://youtu.be/OQYtVF5Gslo  
+- https://youtu.be/at-bQ612x7w  
+- https://youtu.be/ektoKZR4A9c  
+- https://youtu.be/ozpG1WqTlYA  
+- https://www.youtube.com/watch?v=3ffMyLHiC3o  
 
-https://youtu.be/ektoKZR4A9c?si=aVuZO3NuoOQw6wRQ
+### 📄 Fontes de Texto
 
-https://youtu.be/ozpG1WqTlYA?si=fLvULK5grVbn2r2q
+- https://www.cnnbrasil.com.br/economia/mercado/luiz-barsi-ao-cnn-money-as-licoes-de-investimento-do-rei-dos-dividendos/  
+- https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/luiz-barsi-saiba-como-o-warren-buffett-brasileiro-fez-fortuna-focando-em-dividendos/  
+- https://fastcompanybrasil.com/money/quem-e-luiz-barsi-o-maior-investidor-individual-da-b3/  
+- https://www.suno.com.br/tudo-sobre/luiz-barsi/
 
-https://www.youtube.com/watch?v=3ffMyLHiC3o
-
-📄 Fontes de Texto
-
-https://www.cnnbrasil.com.br/economia/mercado/luiz-barsi-ao-cnn-money-as-licoes-de-investimento-do-rei-dos-dividendos/
-
-https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/luiz-barsi-saiba-como-o-warren-buffett-brasileiro-fez-fortuna-focando-em-dividendos/
-
-https://fastcompanybrasil.com/money/quem-e-luiz-barsi-o-maior-investidor-individual-da-b3/
-
-https://www.suno.com.br/tudo-sobre/luiz-barsi/
-
-🤖 Engenharia de Prompts e Cicatrizes
+## 🤖 Engenharia de Prompts e Cicatrizes
 
 Durante o estudo, foram utilizados prompts estratégicos para extrair informações relevantes do NotebookLM. 
 Também foram registradas dificuldades e melhorias realizadas nos prompts.
@@ -69,7 +67,8 @@ Dividendos são parte do lucro distribuída pelas empresas aos acionistas. Eles 
 
 Dificuldade encontrada: Foi necessário solicitar uma explicação mais simples para facilitar a compreensão
 
-📘 Miniguia de Estudo
+## 📘 Miniguia de Estudo
+
 👤 História de Luiz Barsi
 
 Luiz Barsi iniciou sua trajetória com poucos recursos financeiros e construiu patrimônio ao longo dos anos investindo em empresas sólidas. Sua estratégia baseia-se em disciplina, paciência e visão de longo prazo.
@@ -77,17 +76,17 @@ Luiz Barsi iniciou sua trajetória com poucos recursos financeiros e construiu p
 📈 Princípios de Investimento
 
 Os principais princípios incluem:
-
-Investir em empresas sólidas
-Focar no longo prazo
-Reinvestir dividendos
-Manter disciplina financeira
-Evitar especulação
+- Investir em empresas sólidas  
+- Focar no longo prazo  
+- Reinvestir dividendos  
+- Manter disciplina financeira  
+- Evitar especulação  
 
 💰 Dividendos
 Dividendos são parte do lucro distribuída pelas empresas aos acionistas. Na estratégia de Luiz Barsi, eles são fundamentais para gerar renda passiva e aumentar o patrimônio ao longo do tempo.
 
-📖 Glossário
+## 📖 Glossário
+
 | Termo | Definição |
 |------|-----------|
 | Dividendos | Parte do lucro distribuída aos acionistas |
@@ -97,7 +96,7 @@ Dividendos são parte do lucro distribuída pelas empresas aos acionistas. Na es
 | Reinvestimento | Aplicar novamente os lucros recebidos |
 
 
-🔁 Prompts Reutilizáveis
+## 🔁 Prompts Reutilizáveis
 
 Explique os princípios de investimento de Luiz Barsi
 
@@ -105,7 +104,7 @@ Liste vantagens de investir em dividendos
 
 Quais são os principais princípios de investimento utilizados por Luiz Barsi?
 
-# 🚀 Resultados Obtidos
+## 🚀 Resultados Obtidos
 
 Este projeto permitiu desenvolver habilidades de organização do conhecimento, uso estratégico de Inteligência Artificial e criação de um sistema de aprendizado contínuo baseado nos ensinamentos de Luiz Barsi.
 
